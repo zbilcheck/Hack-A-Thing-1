@@ -5,7 +5,6 @@ import AwesomeButtonStyles from "react-awesome-button/src/styles/styles.scss";
 import tophat_urie from "./tophat_urie.jpg";
 import Hershel from "./Hershel.jpg";
 import urie from './Urie.jpg';
-import tophat_urie from "./tophat_urie.jpg"
 
 
 class Main extends React.Component {
