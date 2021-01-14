@@ -4,11 +4,10 @@
 
 ##### You can view our website as coded at https://zbilcheck.github.io/Hack-A-Thing-1/
 
-## Commands for running the project after downloading from Git
+##### Alternately, here are commands for running the project after downloading from Git
 `brew install yarn`\
 `brew upgrade yarn`\
 `yarn install`\
-`yarn`\
 `yarn add react-awesome-button`\
 `yarn remove node-sass`\
 `yarn add node-sass@4.14.1 `\
