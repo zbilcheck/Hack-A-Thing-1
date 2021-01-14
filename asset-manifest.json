@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Hack-A-Thing-1/static/css/main.06b24ce3.chunk.css",
+    "main.js": "/Hack-A-Thing-1/static/js/main.7db8217d.chunk.js",
+    "main.js.map": "/Hack-A-Thing-1/static/js/main.7db8217d.chunk.js.map",
+    "runtime-main.js": "/Hack-A-Thing-1/static/js/runtime-main.4e93d9dc.js",
+    "runtime-main.js.map": "/Hack-A-Thing-1/static/js/runtime-main.4e93d9dc.js.map",
+    "static/css/2.0f164c96.chunk.css": "/Hack-A-Thing-1/static/css/2.0f164c96.chunk.css",
+    "static/js/2.587c914e.chunk.js": "/Hack-A-Thing-1/static/js/2.587c914e.chunk.js",
+    "static/js/2.587c914e.chunk.js.map": "/Hack-A-Thing-1/static/js/2.587c914e.chunk.js.map",
+    "static/js/3.5a66094a.chunk.js": "/Hack-A-Thing-1/static/js/3.5a66094a.chunk.js",
+    "static/js/3.5a66094a.chunk.js.map": "/Hack-A-Thing-1/static/js/3.5a66094a.chunk.js.map",
+    "index.html": "/Hack-A-Thing-1/index.html",
+    "static/css/2.0f164c96.chunk.css.map": "/Hack-A-Thing-1/static/css/2.0f164c96.chunk.css.map",
+    "static/css/main.06b24ce3.chunk.css.map": "/Hack-A-Thing-1/static/css/main.06b24ce3.chunk.css.map",
+    "static/js/2.587c914e.chunk.js.LICENSE.txt": "/Hack-A-Thing-1/static/js/2.587c914e.chunk.js.LICENSE.txt",
+    "static/media/Hershel.cc7646ef.jpg": "/Hack-A-Thing-1/static/media/Hershel.cc7646ef.jpg",
+    "static/media/Urie.7b827f2a.jpg": "/Hack-A-Thing-1/static/media/Urie.7b827f2a.jpg",
+    "static/media/logo.6ce24c58.svg": "/Hack-A-Thing-1/static/media/logo.6ce24c58.svg",
+    "static/media/tophat_urie.27696769.jpg": "/Hack-A-Thing-1/static/media/tophat_urie.27696769.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e93d9dc.js",
+    "static/css/2.0f164c96.chunk.css",
+    "static/js/2.587c914e.chunk.js",
+    "static/css/main.06b24ce3.chunk.css",
+    "static/js/main.7db8217d.chunk.js"
+  ]
+}
