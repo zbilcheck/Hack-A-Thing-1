@@ -4,7 +4,7 @@
 
 ##### You can view our website as coded at https://zbilcheck.github.io/Hack-A-Thing-1/
 
-##### Alternately, here are commands for running the project after downloading from Git
+##### Alternately, here are commands for running the project after downloading from Git:
 `brew install yarn`\
 `brew upgrade yarn`\
 `yarn install`\
