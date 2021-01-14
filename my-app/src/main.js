@@ -2,6 +2,8 @@ import React from 'react';
 import Person from './Person';
 import { AwesomeButton } from "react-awesome-button";
 import AwesomeButtonStyles from "react-awesome-button/src/styles/styles.scss";
+import tophat_urie from "./tophat_urie.jpg";
+import Hershel from "./Hershel.jpg";
 import urie from './Urie.jpg';
 import tophat_urie from "./tophat_urie.jpg"
 
@@ -29,7 +31,7 @@ class Main extends React.Component {
   }
   renderHersh = () => {
     if (this.state.hersh) {
-      return(<Person name={"Hershel Wathore"} description={"Chilling"} image={'logo.svg'}></Person>);
+      return(<Person name={"Hershel Wathore"} description={"Chilling"} image={Hershel}></Person>);
     }
   }
 
