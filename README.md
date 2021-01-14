@@ -12,4 +12,4 @@
 `yarn add react-awesome-button`\
 `yarn remove node-sass`\
 `yarn add node-sass@4.14.1 `\
-`yarn start`\
+`yarn start`
