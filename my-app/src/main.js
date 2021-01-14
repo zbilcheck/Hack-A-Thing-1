@@ -45,13 +45,19 @@ class Main extends React.Component {
 
   render() {
     return (
-      <div>
-        <AwesomeButton type="primary" cssModule={AwesomeButtonStyles} onPress={this.UriePress}>Urie</AwesomeButton>
-        {this.renderUrie()}
-        <AwesomeButton type="primary" cssModule={AwesomeButtonStyles} onPress={this.HershPress}>Hershel</AwesomeButton>
-        {this.renderHersh()}
-        <AwesomeButton type="primary" cssModule={AwesomeButtonStyles} onPress={this.ZachPress}>Zach</AwesomeButton>
-        {this.renderZach()}
+      <div className="AllPeople">
+        <div className="Person">
+          <AwesomeButton type="primary" cssModule={AwesomeButtonStyles} onPress={this.UriePress}>Urie</AwesomeButton>
+          {this.renderUrie()}
+        </div>
+        <div className="Person">
+          <AwesomeButton type="primary" cssModule={AwesomeButtonStyles} onPress={this.HershPress}>Hershel</AwesomeButton>
+          {this.renderHersh()}
+        </div>
+        <div className="Person">
+          <AwesomeButton type="primary" cssModule={AwesomeButtonStyles} onPress={this.ZachPress}>Zach</AwesomeButton>
+          {this.renderZach()}
+        </div>
       </div>
     );
   }

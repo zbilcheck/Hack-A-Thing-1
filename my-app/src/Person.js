@@ -7,9 +7,9 @@ class Person extends React.Component {
 
   render() {
     return (
-      <div>
-        <a>{this.props.name}</a>
-        <a>{this.props.description}</a>
+      <div className="Info">
+        <a className="Name">{this.props.name}</a>
+        <a className="Description">{this.props.description}</a>
         <img src={this.props.image} height={200} width={200}/>
       </div>
     );
